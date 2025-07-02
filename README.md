@@ -31,18 +31,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Snowflake_Logo.svg/768px-Snowflake_Logo.svg.png" height="48" alt="Snowflake" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/snowflake.svg" height="48" alt="Snowflake" style="background-color:white; padding:4px; border-radius:10px;" />
   <img src="https://airflow.apache.org/images/airflow_dark_bg.png" height="48" alt="Apache Airflow" />
-  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="48" alt="Streamlit" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/streamlit.svg" height="48" alt="Streamlit" style="background-color:white; padding:4px; border-radius:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" />
 </p>
 
 #### ☁️ Cloud & DevOps  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="48" alt="AWS" />
-  <img src="https://seeklogo.com/images/R/render-logo-815D752D30-seeklogo.com.png" height="48" alt="Render" />
-  <img src="https://assets.vercel.com/image/upload/v1667924829/front/icons/vercel/dark.svg" height="48" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" height="48" alt="AWS" style="background-color:white; padding:4px; border-radius:10px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/render.svg" height="48" alt="Render" style="background-color:white; padding:4px; border-radius:10px;" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" height="48" alt="Vercel" style="background-color:white; padding:4px; border-radius:10px;" />
 </p>
+
 
 ---
 
