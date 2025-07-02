@@ -12,7 +12,7 @@
 - 👨‍💻 I’m currently working on **Data Engineering Projects** using Python, SQL, Snowflake, and Airflow  
 - 🌱 I’m exploring **backend systems, scalable pipelines, and cloud data workflows**  
 - 💬 Ask me about **Python, SQL, WebRTC, MERN, and ETL**  
-- 📫 Reach me at: `sairajgpatil8@gmail.com`
+- 📫 Reach me at: `sairajgpatil8@gmail.com`  
 - ⚡ Fun fact: I love solving real-world problems through code!
 
 ---
@@ -20,23 +20,29 @@
 ### 🛠️ Tech Stack
 
 #### 👨‍💻 Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql" />
+</p>
 
 #### 🧰 Tools & Frameworks  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)  
-![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Snowflake_Logo.svg/1200px-Snowflake_Logo.svg.png" height="40" alt="snowflake" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Apache_Airflow_logo.svg" height="40" alt="airflow" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40" alt="streamlit" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github-actions/github-actions.png" height="40" alt="github-actions" />
+</p>
 
 #### ☁️ Cloud & DevOps  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)  
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black)  
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Render_Logo.svg" height="40" alt="render" />
+  <img src="https://assets.vercel.com/image/upload/v1667924829/front/icons/vercel/dark.svg" height="40" alt="vercel" />
+</p>
 
 ---
 
@@ -51,10 +57,14 @@
 - 🌐 **WebRTC Video App**  
   Developed a real-time video chat app using WebRTC, STUN servers, and custom signaling with Express and Socket.IO.
 
+- 🏋️‍♂️ **Gym & Fitness Tracker (MERN)**  
+  Created a fitness management app with user login, workout logging, nutrition tracking, and progress monitoring using MongoDB, Express, React, and Node.js.
+
+- 🌦️ **Weather ETL Pipeline**  
+  Designed a real-time pipeline that ingests weather data via API, transforms it with Pandas, stores it in Snowflake, and visualizes trends using a Streamlit dashboard.
 ---
 
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sairaj-patil-it/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sairajp88)  
-  
