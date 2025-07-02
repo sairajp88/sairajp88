@@ -21,27 +21,27 @@
 
 #### 👨‍💻 Languages  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="48" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="sql" />
 </p>
 
 #### 🧰 Tools & Frameworks  
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="48" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="48" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/sairajp88/assets/main/icons/snowflake-dark.png" height="48" alt="Snowflake" />
-  <img src="https://raw.githubusercontent.com/sairajp88/assets/main/icons/airflow-dark.png" height="48" alt="Apache Airflow" />
-  <img src="https://raw.githubusercontent.com/sairajp88/assets/main/icons/streamlit-dark.png" height="48" alt="Streamlit" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Snowflake_Logo.svg/1200px-Snowflake_Logo.svg.png" height="40" alt="snowflake" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Apache_Airflow_logo.svg" height="40" alt="airflow" />
+  <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" height="40" alt="streamlit" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github-actions/github-actions.png" height="40" alt="github-actions" />
 </p>
 
 #### ☁️ Cloud & DevOps  
 <p align="left">
-  <img src="https://raw.githubusercontent.com/sairajp88/assets/main/icons/aws-dark.png" height="48" alt="AWS" />
-  <img src="https://raw.githubusercontent.com/sairajp88/assets/main/icons/render-dark.png" height="48" alt="Render" />
-  <img src="https://raw.githubusercontent.com/sairajp88/assets/main/icons/vercel-dark.png" height="48" alt="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="aws" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Render_Logo.svg" height="40" alt="render" />
+  <img src="https://assets.vercel.com/image/upload/v1667924829/front/icons/vercel/dark.svg" height="40" alt="vercel" />
 </p>
 
 ---
